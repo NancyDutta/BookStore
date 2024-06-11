@@ -1,3 +1,6 @@
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+## Cloning and Running Locally
+
+To get started with this project locally, follow these steps:
+
+1. Clone this repository to your local machine:
+   ```sh
+   git clone https://github.com/your-username/your-repository.git
+
+
+2.Navigate to the main folder of the project:
+ cd your-repository
+ 
+3.Install the required dependencies using npm:
+ npm install
+ 
+4.After the installation is complete, navigate to the inner folder (where the package.json file is located):
+  cd inner-folder
+  
+5.Finally, start the development server:
+  npm start
+ 
